@@ -1,4 +1,4 @@
-# neural_computation_paper_2_Code
+# Identifying and localizing multiple objects using artificial ventral and dorsal cortical visual pathways 
 
 The Code is for paper: https://doi.org/10.1162/neco_a_01559 
 
